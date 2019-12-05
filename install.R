@@ -1,2 +1,2 @@
-library(tidyverse)
-library(Hmisc)
+install.packages("tidyverse")
+install.packages("Hmisc")
